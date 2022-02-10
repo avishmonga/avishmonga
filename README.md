@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  <h2> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Avish.</h2>
 
 <!-- <h1 align="center">Hi 👋, I'm Avish Kumar</h1> -->
-<h3 align="center">A passionate full stack web developer...</h3>
+<h3 align="center">A Passionate full stack web developer...</h3>
  <div><img align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" /></div>
 
 - 🔭 I’m currently working on [Hotstar - clone](https://github.com/avishmonga/disney-plus-hotstar-clone)
