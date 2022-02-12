@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- <h1 align="center">Hi 👋, I'm Avish Kumar</h1> -->
 <h3 align="center">A Passionate full stack web developer...</h3>
  <div><img align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" /></div>
-<p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> <p>I am a FullStack Developer and a curious person who loves to know how different things work together. I love to Play with new things and learn from them.
+<p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> <p>I am a FullStack Web Developer and a curious person who loves to know how different things work together. I love to Play with new things and learn from them.
  <br/>
  <hr />
  <br /> 
