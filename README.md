@@ -24,9 +24,9 @@ Here are some ideas to get you started:
  <hr />
  <br /> 
  
-- 🔭 I’m currently working on [Hotstar - clone](https://github.com/avishmonga/disney-plus-hotstar-clone)
+- 🔭 I’m currently working on [Farzi_Dukaan -MERN Stack Ecommerce](https://github.com/avishmonga/farzi_dukaan)
 
-- 🌱 I’m currently learning **React, React-native**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://avishmonga.netlify.app/](https://avishmonga.netlify.app/)
 
