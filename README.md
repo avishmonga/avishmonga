@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  
 - 🔭 I’m currently working on [Farzi_Dukaan -MERN Stack Ecommerce](https://github.com/avishmonga/farzi_dukaan)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Solidity**
 
 - 👨‍💻 All of my projects are available at [https://avishmonga.netlify.app/](https://avishmonga.netlify.app/)
 
