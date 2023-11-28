@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  <hr />
  <br /> 
  
-- 🔭 I’m currently working on [Farzi_Dukaan -MERN Stack Ecommerce](https://github.com/avishmonga/farzi_dukaan)
+- 🔭 I’m currently working in an organization named infino as full stack developer
 
 - 🌱 I’m currently learning **Solidity**
 
